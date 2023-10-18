@@ -1,3 +1,5 @@
+#!/usr/bin/env /Users/<python-path>/python3
+
 import sys
 import os
 import openai
